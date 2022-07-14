@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/catch-me/static/css/main.1d8e0720.css",
+    "main.js": "/catch-me/static/js/main.5c55d6f6.js",
+    "static/js/787.633816a4.chunk.js": "/catch-me/static/js/787.633816a4.chunk.js",
+    "static/media/lew.jpg": "/catch-me/static/media/lew.3746adaa12dd4e2362a8.jpg",
+    "static/media/las.jpg": "/catch-me/static/media/las.ad57e484a569a11504f8.jpg",
+    "static/media/jastrzab.jpg": "/catch-me/static/media/jastrzab.da5bae2f837b27ac1f86.jpg",
+    "static/media/kura.jpg": "/catch-me/static/media/kura.64a00afaa0745b4ef2da.jpg",
+    "static/media/jelen.jpg": "/catch-me/static/media/jelen.1f2d0f685c67d48aba65.jpg",
+    "static/media/sarna.jpg": "/catch-me/static/media/sarna.5823dce063739897210e.jpg",
+    "static/media/tygrys.jpg": "/catch-me/static/media/tygrys.17b800cdfab8fc96ddbf.jpg",
+    "static/media/wiewior.JPG": "/catch-me/static/media/wiewior.5272db8114a162ac8fd3.JPG",
+    "static/media/loris.jpg": "/catch-me/static/media/loris.84a065f2a3ea6f11e4c7.jpg",
+    "static/media/słon.jpg": "/catch-me/static/media/słon.5dfa8a151352f7ba1466.jpg",
+    "static/media/goryl.jpg": "/catch-me/static/media/goryl.6939554ee083292b161c.jpg",
+    "static/media/kot.jpg": "/catch-me/static/media/kot.3720ce9f1beb1756094f.jpg",
+    "static/media/piggy.jpg": "/catch-me/static/media/piggy.999fd5eb3d44594ea149.jpg",
+    "static/media/koala.jpg": "/catch-me/static/media/koala.42731c34a1d6546fd6d2.jpg",
+    "static/media/hippopotam.jpg": "/catch-me/static/media/hippopotam.72c6e032b087e5c34843.jpg",
+    "static/media/żyrafa.jpg": "/catch-me/static/media/żyrafa.8c2d73050ad9b3ec41cf.jpg",
+    "static/media/komar.jpg": "/catch-me/static/media/komar.ce16554b4823e0733597.jpg",
+    "static/media/antylopa.jpg": "/catch-me/static/media/antylopa.a5b2555349ff505651b1.jpg",
+    "static/media/pies.jpg": "/catch-me/static/media/pies.442d3ff7dd5a38e408f4.jpg",
+    "static/media/owca.jpg": "/catch-me/static/media/owca.d613c867833b6bab7011.jpg",
+    "static/media/osa.jpg": "/catch-me/static/media/osa.0a2c64c78126527d19f5.jpg",
+    "static/media/orzel.jpg": "/catch-me/static/media/orzel.f6dbcd55bf0d34229e19.jpg",
+    "static/media/leniwiec.jpg": "/catch-me/static/media/leniwiec.c0b5341c99ddb03d966f.jpg",
+    "static/media/slimak.jpg": "/catch-me/static/media/slimak.c566565c0a16d49c04a3.jpg",
+    "static/media/krowa.jpg": "/catch-me/static/media/krowa.55105e74a85fc53e68cc.jpg",
+    "static/media/mucha.jpg": "/catch-me/static/media/mucha.202309cd98c5c8fd10d4.jpg",
+    "static/media/krolik.jpg": "/catch-me/static/media/krolik.a2c892b5f385c48b6f55.jpg",
+    "static/media/dzik.jpg": "/catch-me/static/media/dzik.f2c5174cdc58d0994b03.jpg",
+    "index.html": "/catch-me/index.html",
+    "main.1d8e0720.css.map": "/catch-me/static/css/main.1d8e0720.css.map",
+    "main.5c55d6f6.js.map": "/catch-me/static/js/main.5c55d6f6.js.map",
+    "787.633816a4.chunk.js.map": "/catch-me/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d8e0720.css",
+    "static/js/main.5c55d6f6.js"
+  ]
+}
